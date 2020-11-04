@@ -1,4 +1,0 @@
-body 
-{
-  font zise : 20px;
-}
